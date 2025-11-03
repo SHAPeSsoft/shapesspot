@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SHAPeS Spot</title>
-    <link>https://shapessoft.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on SHAPeS Spot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Oct 2025 20:59:49 -0500</lastBuildDate>
-    <atom:link href="https://shapessoft.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://shapessoft.github.io/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Fri, 31 Oct 2025 20:59:49 -0500</pubDate>
-      <guid>https://shapessoft.github.io/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Funny</title>
-      <link>https://shapessoft.github.io/tags/funny/</link>
+      <link>http://localhost:1313/tags/funny/</link>
       <pubDate>Fri, 31 Oct 2025 20:59:49 -0500</pubDate>
-      <guid>https://shapessoft.github.io/tags/funny/</guid>
+      <guid>http://localhost:1313/tags/funny/</guid>
       <description></description>
     </item>
     <item>
       <title>Opinion</title>
-      <link>https://shapessoft.github.io/tags/opinion/</link>
+      <link>http://localhost:1313/tags/opinion/</link>
       <pubDate>Wed, 22 Oct 2025 00:42:06 -0500</pubDate>
-      <guid>https://shapessoft.github.io/tags/opinion/</guid>
+      <guid>http://localhost:1313/tags/opinion/</guid>
       <description></description>
     </item>
     <item>
       <title>Stinky</title>
-      <link>https://shapessoft.github.io/tags/stinky/</link>
+      <link>http://localhost:1313/tags/stinky/</link>
       <pubDate>Wed, 22 Oct 2025 00:42:06 -0500</pubDate>
-      <guid>https://shapessoft.github.io/tags/stinky/</guid>
+      <guid>http://localhost:1313/tags/stinky/</guid>
       <description></description>
     </item>
     <item>
       <title>Zuckerbucks</title>
-      <link>https://shapessoft.github.io/tags/zuckerbucks/</link>
+      <link>http://localhost:1313/tags/zuckerbucks/</link>
       <pubDate>Wed, 22 Oct 2025 00:17:27 -0500</pubDate>
-      <guid>https://shapessoft.github.io/tags/zuckerbucks/</guid>
+      <guid>http://localhost:1313/tags/zuckerbucks/</guid>
       <description></description>
     </item>
   </channel>

@@ -385,3 +385,25 @@ th,
 button {
   font-weight: 600;
 }
+/* Make the entire layout span full width */
+body, .container, .content {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+}
+
+/* Optional: if the theme centers text or sets a max-width for posts */
+main, article, section {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Prevent any theme layout wrappers from constraining width */
+.wrapper, .inner, .page, .site {
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
