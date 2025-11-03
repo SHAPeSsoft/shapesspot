@@ -2,34 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/2/</loc>
+    <loc>https://shapessoft.github.io/tags/ai/</loc>
+    <lastmod>2025-10-31T20:59:49-05:00</lastmod>
+  </url><url>
+    <loc>https://shapessoft.github.io/tags/funny/</loc>
+    <lastmod>2025-10-31T20:59:49-05:00</lastmod>
+  </url><url>
+    <loc>https://shapessoft.github.io/posts/3/</loc>
+    <lastmod>2025-10-31T20:59:49-05:00</lastmod>
+  </url><url>
+    <loc>https://shapessoft.github.io/posts/</loc>
+    <lastmod>2025-10-31T20:59:49-05:00</lastmod>
+  </url><url>
+    <loc>https://shapessoft.github.io/</loc>
+    <lastmod>2025-10-31T20:59:49-05:00</lastmod>
+  </url><url>
+    <loc>https://shapessoft.github.io/tags/</loc>
+    <lastmod>2025-10-31T20:59:49-05:00</lastmod>
+  </url><url>
+    <loc>https://shapessoft.github.io/posts/2/</loc>
     <lastmod>2025-10-22T00:42:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/opinion/</loc>
+    <loc>https://shapessoft.github.io/tags/opinion/</loc>
     <lastmod>2025-10-22T00:42:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://shapessoft.github.io/tags/stinky/</loc>
     <lastmod>2025-10-22T00:42:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-22T00:42:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/stinky/</loc>
-    <lastmod>2025-10-22T00:42:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-22T00:42:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/1/</loc>
+    <loc>https://shapessoft.github.io/posts/1/</loc>
     <lastmod>2025-10-22T00:17:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/zuckerbucks/</loc>
+    <loc>https://shapessoft.github.io/tags/zuckerbucks/</loc>
     <lastmod>2025-10-22T00:17:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://shapessoft.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/bugs/</loc>
+    <loc>https://shapessoft.github.io/bugs/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://shapessoft.github.io/categories/</loc>
   </url>
 </urlset>

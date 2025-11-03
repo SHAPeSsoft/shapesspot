@@ -2,9 +2,9 @@
 @import url('https://cdn.staticdelivr.com/gfonts/css2?family=Fira+Code:wght@300..700&display=swap');
 
 :root {
-  --background: #1a170f;
-  --foreground: #eceae5;
-  --accent: #32858b;
+  --background: #0f1117;
+  --foreground: #d1d5db;
+  --accent: #00d9ff;
   --radius: 0;
   --font-size: 1rem;
   --line-height: 1.54em;
@@ -384,25 +384,4 @@ b, strong,
 th,
 button {
   font-weight: 600;
-}
-
-/* Make the entire layout span full width */
-body, .container, .content {
-  max-width: 100% !important;
-  width: 100% !important;
-  justify-content: flex-start !important;
-  align-items: flex-start !important;
-}
-
-/* Optional: if the theme centers text or sets a max-width for posts */
-main, article, section {
-  max-width: 100% !important;
-  width: 100% !important;
-}
-
-/* Prevent any theme layout wrappers from constraining width */
-.wrapper, .inner, .page, .site {
-  max-width: 100% !important;
-  margin: 0 !important;
-  padding: 0 !important;
 }

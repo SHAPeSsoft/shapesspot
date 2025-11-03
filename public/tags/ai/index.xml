@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on SHAPeS Spot</title>
+    <link>https://shapessoft.github.io/tags/ai/</link>
+    <description>Recent content in AI on SHAPeS Spot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Oct 2025 20:59:49 -0500</lastBuildDate>
+    <atom:link href="https://shapessoft.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legendary Curl Pull</title>
+      <link>https://shapessoft.github.io/posts/3/</link>
+      <pubDate>Fri, 31 Oct 2025 20:59:49 -0500</pubDate>
+      <guid>https://shapessoft.github.io/posts/3/</guid>
+      <description>&lt;h1 id=&#34;recently&#34;&gt;Recently,&lt;/h1&gt;&#xA;&lt;p&gt;I was bored out of my mind, so I decided &lt;strong&gt;&amp;ldquo;Hey&amp;hellip; I wonder what will happen if I curled grok.com&amp;rsquo;s ping.txt&lt;/strong&gt; So I did, i ran:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;curl grok.com/ping.txt&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And I got back this HUGE wall of HTML, JSON, CSS all the stuff. Well it turns out Grok&amp;rsquo;s whole IOS/Android/Car app with the voice stuff actually has descriptions and prompts for them! And they are hilarious, I don&amp;rsquo;t who Xai hired as prompt engineers, but they were feeling&amp;hellip; &lt;strong&gt;creative&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
