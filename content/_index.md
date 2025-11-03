@@ -7,7 +7,7 @@ This site is primarily for me to rant about random subjects (usually for things 
 **Links**
 - [About](/about)
 - <a href="https://github.com/shapessoft" target="_blank" rel="noopener">My Github</a> {{<subtext>}}My personal GH{{</subtext>}}
-- <a href="https://github.com/shapespot" target="_blank" rel="noopener">Site's Github</a> {{<subtext>}}NOT my personal GH{{</subtext>}}
+- <a href="https://github.com/shapesoft/shapesspot" target="_blank" rel="noopener">Site's Github</a> {{<subtext>}}NOT my personal GH{{</subtext>}}
 - [Posts](/posts) (or just look down)
 - [Bugs?](/bugs)
 
