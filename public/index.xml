@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SHAPeS Spot | Index on SHAPeS Spot</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in SHAPeS Spot | Index on SHAPeS Spot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Oct 2025 00:42:06 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My opinion on Vibe Coding</title>
+      <link>http://localhost:1313/posts/2/</link>
+      <pubDate>Wed, 22 Oct 2025 00:42:06 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2/</guid>
+      <description>&lt;h1 id=&#34;now&#34;&gt;Now&amp;hellip;&lt;/h1&gt;&#xA;&lt;h3 id=&#34;hahahugoshortcode5s0hbhb&#34;&gt;&lt;script src=&#34;http://localhost:1313/js/rainbow.js&#34;&gt;&lt;/script&gt;&lt;span class=&#34;rainbow&#34;&gt;Vibe Coding...&lt;/span&gt;&lt;/h3&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a&amp;hellip; &lt;em&gt;subject&lt;/em&gt; thats for sure.&#xA;Im going to just come out and say Vibe Coding != Software Engineering.&#xA;That is a fact, you saying something and then doing a little Ctrl+C/Ctrl+V action isn&amp;rsquo;t programming,&#xA;it&amp;rsquo;s prompting, and I mean &lt;strong&gt;REALLY&lt;/strong&gt; prompting, endless amounts of times. Over. And.&#xA;Now I now you probably don&amp;rsquo;t care what I have to say about, but you should! Honestly, a buggy, insecure app that breaks when you try to add a new button because ChatGPT/Grok/Claude/Gemini/&lt;script src=&#34;http://localhost:1313/js/rainbow.js&#34;&gt;&lt;/script&gt;&lt;span class=&#34;rainbow&#34;&gt;whateverthefuck&lt;/span&gt; forgot what it was doing or though it&amp;rsquo;s a exotic bird is WAY better than a app that you spent time, effort, and (maybe) passion into that actual (sometimes) works! Just learn to program. That&amp;rsquo;s all i gotta say, stop hyping AI like it&amp;rsquo;s gonna make you a buncha money. Though, i do think &lt;strong&gt;using&lt;/strong&gt; AI as a &lt;em&gt;tool&lt;/em&gt; and not another brain is great! Work smarter not harder everyone (granted that you know what the &amp;ldquo;smart&amp;rdquo; is!)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why not Svelte?</title>
+      <link>http://localhost:1313/posts/1/</link>
+      <pubDate>Wed, 22 Oct 2025 00:17:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/1/</guid>
+      <description>&lt;h1 id=&#34;oh-god-im-talking-about-a-hahahugoshortcode4s0hbhb&#34;&gt;Oh god, I&amp;rsquo;m talking about a&amp;hellip; &lt;span class=&#34;red&#34; style=&#34;color: red;&#34;&gt;FRAMEWORK!!&lt;/span&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;span class=&#34;subtext&#34; style=&#34;opacity: 50%; color: gray;&#34;&gt;this is gonna make someone mad...&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;okay-i-like-svelete&#34;&gt;Okay&amp;hellip; I like Svelete&lt;/h3&gt;&#xA;&lt;p&gt;And I don&amp;rsquo;t like &lt;span class=&#34;red&#34; style=&#34;color: red;&#34;&gt;React&lt;/span&gt; (mainly because of performance and it gets weird). lemme explain, the concept of being able to do all your logic, visuals, and styling in a single file, while keeping it separate from others is AWESOME! Which is one of the min reasons why I, and many others, enjoy Svelte. Also our &lt;span class=&#34;red&#34; style=&#34;color: red;&#34;&gt;framework&lt;/span&gt; isn&amp;rsquo;t being&#xA;shoved down our throats by a &lt;em&gt;&lt;span class=&#34;subtext&#34; style=&#34;opacity: 50%; color: gray;&#34;&gt;lizard&lt;/span&gt;&lt;/em&gt; CEO of a gagillionbillion dollar tech company which also likes to spy on you &lt;em&gt;&lt;span class=&#34;subtext&#34; style=&#34;opacity: 50%; color: gray;&#34;&gt;allegedly&lt;/span&gt;&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;&#xA;&lt;p&gt;This site was proudly built with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt;, because i didn&amp;rsquo;t want to write an entire site up. The theme is a &amp;ldquo;fork&amp;rdquo;(?) of &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-terminal/&#34; target=&#34;_blank&#34;&gt;Terminal&lt;/a&gt; by &lt;a href=&#34;https://rkoziel.com/&#34; target=&#34;_blank&#34;&gt;panr&lt;/a&gt; on Github (as a note, panr&amp;rsquo;s link is to his personal page!). If you wanna send me a email it&amp;rsquo;s &lt;strong&gt;&lt;a href=&#34;mailto:noah.g.270stx@gmail.com&#34;&gt;noah.g.270stx@gmail.com&lt;/a&gt;&lt;/strong&gt; I recommend the subject field of the email to have [ShapesSpot] or something similar in it, I&amp;rsquo;ll pay more attention to it. Yeah, i think i covered all the bases for a About page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bugs?</title>
+      <link>http://localhost:1313/bugs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bugs/</guid>
+      <description>&lt;h1 id=&#34;if-you-find-any-bugstypos&#34;&gt;If you find any bugs/typos&lt;/h1&gt;&#xA;&lt;p&gt;Head on over to &lt;a href=&#34;https://github.com/shapesspot/shapesspot&#34;&gt;my Github issues&lt;/a&gt; and send a issue or pr! But don&amp;rsquo;t be douche about it and send&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;!---&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;script src=&#34;http://localhost:1313/js/rainbow.js&#34;&gt;&lt;/script&gt;&lt;span class=&#34;rainbow&#34;&gt;plz accept i want shirt, dicklemickle2004&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    ---&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Because i &lt;strong&gt;WILL&lt;/strong&gt; ignore them!&#xA;Also if you want you can use the &lt;a href=&#34;https://github.com/shapesspot/shapesspot&#34;&gt;source code&lt;/a&gt; of this site to fork and make your own! &lt;span class=&#34;subtext&#34; style=&#34;opacity: 50%; color: gray;&#34;&gt;Though, it&#39;s kinda useless, its just a pre-made style and my blabbing.&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

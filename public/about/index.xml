@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on SHAPeS Spot</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on SHAPeS Spot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;&#xA;&lt;p&gt;This site was proudly built with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt;, because i didn&amp;rsquo;t want to write an entire site up. The theme is a &amp;ldquo;fork&amp;rdquo;(?) of &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-terminal/&#34; target=&#34;_blank&#34;&gt;Terminal&lt;/a&gt; by &lt;a href=&#34;https://rkoziel.com/&#34; target=&#34;_blank&#34;&gt;panr&lt;/a&gt; on Github (as a note, panr&amp;rsquo;s link is to his personal page!). If you wanna send me a email it&amp;rsquo;s &lt;strong&gt;&lt;a href=&#34;mailto:noah.g.270stx@gmail.com&#34;&gt;noah.g.270stx@gmail.com&lt;/a&gt;&lt;/strong&gt;. Yeah, i think i covered all the bases for a About page.&lt;/p&gt;&#xA;&lt;p&gt;LINKS FOR LATER:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts&#34;&gt;Posts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zuckerbucks on SHAPeS Spot</title>
+    <link>http://localhost:1313/tags/zuckerbucks/</link>
+    <description>Recent content in Zuckerbucks on SHAPeS Spot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Oct 2025 00:17:27 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/zuckerbucks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why not Svelte?</title>
+      <link>http://localhost:1313/posts/1/</link>
+      <pubDate>Wed, 22 Oct 2025 00:17:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/1/</guid>
+      <description>&lt;h1 id=&#34;oh-god-im-talking-about-a-hahahugoshortcode4s0hbhb&#34;&gt;Oh god, I&amp;rsquo;m talking about a&amp;hellip; &lt;span class=&#34;red&#34; style=&#34;color: red;&#34;&gt;FRAMEWORK!!&lt;/span&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;span class=&#34;subtext&#34; style=&#34;opacity: 50%; color: gray;&#34;&gt;this is gonna make someone mad...&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;okay-i-like-svelete&#34;&gt;Okay&amp;hellip; I like Svelete&lt;/h3&gt;&#xA;&lt;p&gt;And I don&amp;rsquo;t like &lt;span class=&#34;red&#34; style=&#34;color: red;&#34;&gt;React&lt;/span&gt; (mainly because of performance and it gets weird). lemme explain, the concept of being able to do all your logic, visuals, and styling in a single file, while keeping it separate from others is AWESOME! Which is one of the min reasons why I, and many others, enjoy Svelte. Also our &lt;span class=&#34;red&#34; style=&#34;color: red;&#34;&gt;framework&lt;/span&gt; isn&amp;rsquo;t being&#xA;shoved down our throats by a &lt;em&gt;&lt;span class=&#34;subtext&#34; style=&#34;opacity: 50%; color: gray;&#34;&gt;lizard&lt;/span&gt;&lt;/em&gt; CEO of a gagillionbillion dollar tech company which also likes to spy on you &lt;em&gt;&lt;span class=&#34;subtext&#34; style=&#34;opacity: 50%; color: gray;&#34;&gt;allegedly&lt;/span&gt;&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
