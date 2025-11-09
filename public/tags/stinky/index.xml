@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Stinky on SHAPeS Spot</title>
-    <link>http://localhost:1313/tags/stinky/</link>
-    <description>Recent content in Stinky on SHAPeS Spot</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 22 Oct 2025 00:42:06 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/stinky/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My opinion on Vibe Coding</title>
-      <link>http://localhost:1313/posts/2/</link>
-      <pubDate>Wed, 22 Oct 2025 00:42:06 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2/</guid>
-      <description>&lt;h1 id=&#34;now&#34;&gt;Now&amp;hellip;&lt;/h1&gt;&#xA;&lt;h3 id=&#34;hahahugoshortcode4s0hbhb&#34;&gt;&lt;script src=&#34;http://localhost:1313/js/rainbow.js&#34;&gt;&lt;/script&gt;&lt;span class=&#34;rainbow&#34;&gt;Vibe Coding...&lt;/span&gt;&lt;/h3&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a&amp;hellip; &lt;em&gt;subject&lt;/em&gt; thats for sure.&#xA;I&amp;rsquo;m going to just come out and say Vibe Coding != Software Engineering.&#xA;That is fact, you saying something and then doing a little Ctrl+C/Ctrl+V action isn&amp;rsquo;t programming,&#xA;it&amp;rsquo;s prompting, and I mean &lt;strong&gt;REALLY&lt;/strong&gt; prompting, endless amounts of times. Over. And. Over.&#xA;Now I now you probably don&amp;rsquo;t care what I have to say about, but you should! Honestly, a buggy, insecure app that breaks when you try to add a new button because ChatGPT/Grok/Claude/Gemini/&lt;script src=&#34;http://localhost:1313/js/rainbow.js&#34;&gt;&lt;/script&gt;&lt;span class=&#34;rainbow&#34;&gt;whateverthefuck&lt;/span&gt; forgot what it was doing or thought it&amp;rsquo;s a exotic bird is WAY better than a app that you spent time, effort, and (maybe) passion into that actual, which works more than a AI app! Just learn to program. That&amp;rsquo;s all I gotta say, stop hyping AI like it&amp;rsquo;s gonna make you a buncha money &lt;span class=&#34;subtext&#34; style=&#34;opacity: 50%; color: gray;&#34;&gt;NVIDIA on the other hand...&lt;/span&gt;. Though, I do think &lt;em&gt;using&lt;/em&gt; AI as a &lt;strong&gt;tool&lt;/strong&gt; and not another brain or arm is great! Work smarter not harder everyone (granted that you know what the &amp;ldquo;smart&amp;rdquo; is!).&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stinky on SHAPeS Spot</title><link>https://shapessoft.github.io:1313/shapesspot/tags/stinky/</link><description>Recent content in Stinky on SHAPeS Spot</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 22 Oct 2025 00:42:06 -0500</lastBuildDate><atom:link href="https://shapessoft.github.io:1313/shapesspot/tags/stinky/index.xml" rel="self" type="application/rss+xml"/><item><title>My opinion on Vibe Coding</title><link>https://shapessoft.github.io:1313/shapesspot/posts/2/</link><pubDate>Wed, 22 Oct 2025 00:42:06 -0500</pubDate><guid>https://shapessoft.github.io:1313/shapesspot/posts/2/</guid><description>&lt;h1 id="now"&gt;Now&amp;hellip;&lt;/h1&gt;
+&lt;h3 id="hahahugoshortcode5s0hbhb"&gt;&lt;script src="https://shapessoft.github.io:1313/shapesspot/js/rainbow.js"&gt;&lt;/script&gt;&lt;span class="rainbow"&gt;Vibe Coding...&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s a&amp;hellip; &lt;em&gt;subject&lt;/em&gt; thats for sure.
+I&amp;rsquo;m going to just come out and say Vibe Coding != Software Engineering.
+That is fact, you saying something and then doing a little Ctrl+C/Ctrl+V action isn&amp;rsquo;t programming,
+it&amp;rsquo;s prompting, and I mean &lt;strong&gt;REALLY&lt;/strong&gt; prompting, endless amounts of times. Over. And. Over.
+Now I now you probably don&amp;rsquo;t care what I have to say about, but you should! Honestly, a buggy, insecure app that breaks when you try to add a new button because ChatGPT/Grok/Claude/Gemini/&lt;script src="https://shapessoft.github.io:1313/shapesspot/js/rainbow.js"&gt;&lt;/script&gt;&lt;span class="rainbow"&gt;whateverthefuck&lt;/span&gt; forgot what it was doing or thought it&amp;rsquo;s a exotic bird is WAY better than a app that you spent time, effort, and (maybe) passion into that actual, which works more than a AI app! Just learn to program. That&amp;rsquo;s all I gotta say, stop hyping AI like it&amp;rsquo;s gonna make you a buncha money &lt;span class="subtext" style="opacity: 50%; color: gray;"&gt;NVIDIA on the other hand...&lt;/span&gt;. Though, I do think &lt;em&gt;using&lt;/em&gt; AI as a &lt;strong&gt;tool&lt;/strong&gt; and not another brain or arm is great! Work smarter not harder everyone (granted that you know what the &amp;ldquo;smart&amp;rdquo; is!).&lt;/p&gt;</description></item></channel></rss>
