@@ -1,4 +1,4 @@
-baseURL = 'https://shapessoft.github.io/'
+baseURL = 'https://shapessoft.github.io/shapesspot'
 languageCode = 'en-us'
 title = 'SHAPeS Spot'
 theme = 'shapesterm'
