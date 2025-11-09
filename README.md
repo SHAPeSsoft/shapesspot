@@ -11,3 +11,9 @@ or if you don't have a SSH key
 ```bash
     git clone https://github.com/SHAPeSsoft/shapesspot.git
 ```
+
+and run with [Hugo](https://gohugo.io/) 
+```bash 
+hugo server
+```
+it'll be on localhost:1313 by default
