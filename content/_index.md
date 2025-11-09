@@ -5,11 +5,10 @@ title: "SHAPeS Spot | Index"
 
 This site is primarily for me to rant about random subjects (usually for things related to the tech world), or a new library/{{<red>}}framework{{</red>}}/software/thing I made. You can start by clicking one of the links below to check out other pages<br>
 **Links**
-- [About](/about)
+- [About](shapesspot/about)
 - <a href="https://github.com/shapessoft" target="_blank" rel="noopener">My Github</a> {{<subtext>}}My personal GH{{</subtext>}}
 - <a href="https://github.com/shapesoft/shapesspot" target="_blank" rel="noopener">Site's Github</a> {{<subtext>}}My personal GH's blog repo{{</subtext>}}
-- [Posts](/posts) (or just look down)
-- [Bugs?](/bugs)
+- [Posts](shapesspot/posts) {{<subtext>}}Or just look down{{</subtext>}}
 
 ### Who is SHAPeS?
 Now here's a little about me, I'm SHAPeS (or Noah, whichever) I like writing colors on a metal box and watch it do stuff, or for smart people, **I write code**.
@@ -23,4 +22,4 @@ Idk... I have a Ethereum crypto wallet that i made when i was bored:
 {{<subtext>}}Link to etherscan.io, or just copy{{</subtext>}}
 
 ### Hey! Is this site not working for you or there is a little visual bug?
-Head on over to the [bugs page](/bugs)!
+Head on over to the [bugs page](shapesspot/bugs)!
