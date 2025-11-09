@@ -3,7 +3,7 @@ title = 'Bugs?'
 +++
 
 # If you find any bugs/typos
-Head on over to [my Github issues](https://github.com/shapessoft/shapesspot) and send a issue or pr! But don't be douche about it and send
+Head on over to [my Github issues](https://github.com/shapessoft/shapesspot) and send an issue or pr! But don't be a douche about it and send
 ```markdown
     <!---
         {{<rainbow>}}plz accept i want shirt, superprograms431{{</rainbow>}}
