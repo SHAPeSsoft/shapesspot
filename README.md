@@ -16,4 +16,4 @@ and run with [Hugo](https://gohugo.io/)
 ```bash 
 hugo server
 ```
-it'll be on localhost:1313 by default.
+it'll be on localhost:1313 by default, enjoy!
